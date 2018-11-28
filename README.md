@@ -1,3 +1,3 @@
-# garfielddemo
+# demo
 my edit!
 christine edit
